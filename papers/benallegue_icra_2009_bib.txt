@@ -1,0 +1,12 @@
+@InProceedings{benallegue:icra:2009,
+  author    = {Mehdi Benallegue and Adrien Escande and Sylvain Miossec and Abderrahmane Kheddar},
+  title     = {Fast C1 Proximity Queries using Support Mapping of Sphere-Torus-Patches Bounding Volumes},
+  booktitle = {IEEE International Conference on Robotics and Automation},
+  year      = {2009},
+  pages     = {483 - 488},
+  address   = {Kobe, Japan},
+  month     = {May 12-May 17},
+  url       = {https://raw.githubusercontent.com/aescande/website/master/papers/2009\_ICRA\_Benallegue.pdf},
+  lab       = {JRL},
+  doi       = {10.1109/ROBOT.2009.5152722}
+}

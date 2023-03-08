@@ -1,0 +1,13 @@
+@InProceedings{escande:iros:2009b,
+  author    = {Adrien Escande and Abderrahmane Kheddar},
+  title     = {Contact planning for acyclic motion with task constraints and experiments},
+  booktitle = {IEEE International Conference on Robotics and Automation},
+  year      = {2009},
+  pages     = {416-417},
+  address   = {Kobe, Japan},
+  month     = {May 12-May 17},
+  note      = {video session},
+  url       = {https://raw.githubusercontent.com/aescande/website/master/papers/2009\_IROS\_video\_Escande.pdf},
+  lab       = {JRL},
+  doi       = {10.1109/IROS.2009.5353971}
+}
